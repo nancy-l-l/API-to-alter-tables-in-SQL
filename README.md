@@ -1,3 +1,5 @@
+Both files are written in Python
+
 main.py declares our API and defines paths for it
 The @app decorator above each method describes the HTTP method and the path associated with that method
 Implements the ten endpoints in main.py: get_students, get_student, post_student, put_student, delete_student, get_employees, get_employee, post_employee, put_employee, and delete_employee
